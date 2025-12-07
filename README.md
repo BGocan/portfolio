@@ -5,7 +5,7 @@ The site includes projects such as the Aethera Smart Mask, the HEAL health booth
 
 Everything is structured to highlight how I approach problems, design solutions and improve systems through practical engineering and continuous learning.
 
-Tech Stack
+## Tech Stack
 
 React
 
@@ -17,7 +17,7 @@ React Router
 
 Deployed on Vercel
 
-Features
+## Features
 
 Clean and responsive UI
 
@@ -29,15 +29,15 @@ Easy to update as new projects are created
 
 Fully mobile friendly
 
-Live Website
+## Live Website
 
 Coming soon after deployment.
 
-How to Run Locally
+## How to Run Locally
 npm install
 npm run dev
 
-Contact
+## Contact
 
 If you want to reach out, feel free to connect on LinkedIn.
 I am always open to discussing engineering problems, ideas or opportunities.
